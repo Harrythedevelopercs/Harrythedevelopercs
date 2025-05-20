@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Harrythedevelopercs/Harrythedevelopercs/main/banner.png" alt="Hamza Khan - Full Stack Web Developer Banner" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hamza+Khan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;10%2B+Years+in+Web+Development;Backend+Specialist+%7C+PHP+%7C+WordPress+%7C+APIs;Currently+Head+of+Development+at+Bitswits" alt="Typing SVG" />
 </p>
 
