@@ -31,11 +31,19 @@ Tools & DevOps: Git · GitHub · VSCode · Postman · cPanel
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrythedevelopercs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrythedevelopercs&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrythedevelopercs&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrythedevelopercs&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🔥 Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harrythedevelopercs&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -73,5 +81,5 @@ Tools & DevOps: Git · GitHub · VSCode · Postman · cPanel
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0e1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
