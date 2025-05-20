@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harrythedevelopercs/Harrythedevelopercs/main/banner.png" alt="Hamza Khan - Full Stack Web Developer Banner" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Harrythedevelopercs/Harrythedevelopercs/main/BannerImage.png" alt="Hamza Khan - Full Stack Web Developer Banner" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
